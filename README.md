@@ -2,7 +2,7 @@ Para usar esse repositório, faça fork no Github, instale dependências usando 
 
 # Pastas Frontend
 
-`src/aptrancoso praiap/:`
+`src/app/:`
 - Contém estrutura de rotas e páginas da aplicação (utilizando a arquitetura App Router). Contém arquivos como page.tsx, layout.tsx, loading.tsx e error.tsx.
 - O que fazer aqui: Criar e organizar as telas da aplicação (ex: Dashboard do Aluno, Tela de Fazer Login, Listagem de Treinos, Perfil do Usuário).
 
